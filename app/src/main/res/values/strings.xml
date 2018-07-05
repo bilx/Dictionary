@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EasyDictionary</string>
+
+    <string name="chinese_txt">中文</string>
+    <string name="english_txt">英文</string>
+    <string name="translation_txt">翻译</string>
+
+    <string name="input_translation_hint">请输入需要翻译的文本</string>
+    <string name="translation_title">翻译</string>
+    <string name="edit_word_title">词库录入</string>
+    <string name="save_btn">录入</string>
+    <string name="edit_word_menu_text">词库录入</string>
+
+    <string name="input_chinese_tip">请输入中文</string>
+    <string name="input_english_tip">请输入英文</string>
+
+    <string name="success">操作成功</string>
+    <string name="fail">操作失败</string>
+
+
+    <string name="tip">提示</string>
+    <string name="go_edit_tip">自己动手</string>
+    <string name="cancel_edit_tip">一边去~.~</string>
+    <string name="no_result_tip">词库中没有找到结果,是否进行录入?</string>
+</resources>

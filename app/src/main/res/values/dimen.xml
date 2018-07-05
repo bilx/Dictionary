@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="radius_5">5dp</dimen>
+    <dimen name="radius_10">10dp</dimen>
+
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_common">14sp</dimen>
+    <dimen name="text_big">16sp</dimen>
+    <dimen name="text_super_big">18sp</dimen>
+
+    <dimen name="toolbar_text_size">18sp</dimen>
+    <dimen name="tool_bar_padding_left">16dp</dimen>
+    <dimen name="toolbar_height">53dp</dimen>
+
+</resources>
